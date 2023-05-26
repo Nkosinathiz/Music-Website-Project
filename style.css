@@ -68,5 +68,8 @@ header .menu-side .playlist h4 {
 
 header .menu-side .playlist h4:hover {
     color: #fff;
-    transition: .3s linear;
+}
+
+header .menu-side .playlist h4:hover span {
+    position: relative;
 }
